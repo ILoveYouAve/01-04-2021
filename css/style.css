@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #F7E8F0;
+
+
+}
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+    line-height: 2;
+    color: #EAB0D9;
+    text-align: center;
+}
+p {
+    color: #EAB0D9;
+    line-height: 1.2;
+    font-size: 160%;
+    width: 70%;
+    margin: 1rem auto;
+}
+span {
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: x-large;
+    color: #FEB377;
+}
+a {
+    display: block;
+    color: #EAB0D9;
+    text-decoration: none;
+    transition: 0.5s;
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 200%;
+    background-color: #FEB377;
+    border-radius: 10px;
+    width: 50%;
+    margin: 5rem auto;
+}
+a:hover {
+    color: #FEB377;
+    background-color: #EAB0D9;
+}
+hr {
+    border: none;
+    border-top: 1rem dotted #66BFBF;
+    border-width: 0.4rem;
+    width: 3rem;
+    margin: 4rem auto;
+}
+img {
+    margin-top: 5rem;
+    width: 20rem;
+    height: auto;
+}
+.ave {
+    margin: 3rem auto;
+}
+ol {
+    text-align: left;
+    display: inline-block;
+    margin: 0 auto;
+    line-height: 2;
+    color: #EAB0D9;
+    font-size: 160%;
+}
